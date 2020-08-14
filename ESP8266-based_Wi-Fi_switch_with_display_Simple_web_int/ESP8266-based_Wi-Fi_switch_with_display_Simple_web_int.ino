@@ -155,15 +155,7 @@ void loop(){
   client.print("  </th>");
   client.print("  </tr>");
   client.print("  <tr>");
-  client.print("<th><p> Channel 1 is  "); // Printing the state of each channel
-  if(c1 == HIGH)
-  {
-    client.print(" on </p>");
-  }
-  else
-  {
-    client.print(" off </p>");
-  }
+  client.print("<th><p> Channel 1"); // Printing the state of each channel
   client.print("  </th>");
   client.print("  </tr>");
  // client.print("  <br></br>");
@@ -173,15 +165,7 @@ void loop(){
   client.print("  </th>");
   client.print(" </tr>");
   client.print(" <tr>");
-  client.print("<th><p> Channel 2 is  ");
-  if(c2 == HIGH)
-  {
-    client.print(" on </p>");
-  }
-  else
-  {
-    client.print(" off </p>");
-  }
+  client.print("<th><p> Channel 2");
   client.print("  </th>");
   client.print("  </tr>");
   client.print("  <br></br>");
@@ -190,15 +174,7 @@ void loop(){
   client.println("<a href=\"/ch2=OFF\"\"><button>OFF</button></a><br />");
   client.print("  </th>");
   client.print("  <tr>");
-  client.print("<th><p> Channel 3 is  ");
-  if(c3 == HIGH)
-  {
-    client.print(" on </p>");
-  }
-  else
-  {
-    client.print(" off </p>");
-  }
+  client.print("<th><p> Channel 3");
   client.print("  </th>");
   client.print("  </tr>");
 //  client.print("  <br></br>");
@@ -208,15 +184,7 @@ void loop(){
   client.print("  </th>");
   client.print(" </tr>");
     client.print(" <tr>");
-  client.print("<th><p> Channel 4 is  ");
-  if(c4 == HIGH)
-  {
-    client.print(" on </p>");
-  }
-  else
-  {
-    client.print(" off </p>");
-  }
+  client.print("<th><p> Channel 4);
   client.print("  </th>");
   client.print("  </tr>");
 //  client.print("  <br></br>");
