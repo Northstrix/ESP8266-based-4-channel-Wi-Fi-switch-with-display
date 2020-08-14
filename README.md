@@ -8,7 +8,7 @@ To build this device you need:
 4) Four LEDs
 5) Four 1N4004
 6) Four resistors with value 1k
-7) Four resistors with value 470 ohm - 1k
+7) Four resistors with value 470 ohm - 1k for LEDs
 8) Power supply (or two of them) that can provide 9 volts and enough current for relays as well as supply ESP8266 (3.3V or 5V)
 
 Note: If you're using 5 volts power supply then you should put "+" of your power supply to the "Vin" pin.<br>
