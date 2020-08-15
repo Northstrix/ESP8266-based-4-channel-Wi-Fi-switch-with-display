@@ -1,5 +1,6 @@
 # ESP8266-based-4-channel-Wi-Fi-switch-with-display
 Even though this device is simple and easy to build, it can be very useful.
+It also has 5 different web interfaces
 
 To build this device you need:
 1) One ESP8266
