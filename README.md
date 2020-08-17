@@ -9,7 +9,8 @@ To build this device you need:
 5) Four 1N4004
 6) Four resistors with value 1k
 7) Four resistors with value 470 ohm - 1k for LEDs
-8) Power supply (or two of them) that can provide 9 volts and enough current for relays as well as supply ESP8266 (3.3V or 5V)
+8) One Nokia 5110 display
+9) Power supply (or two of them) that can provide 9 volts and enough current for relays as well as supply ESP8266 (3.3V or 5V)
 
 Note: If you're using 5 volts power supply then you should put "+" of your power supply to the "Vin" pin.<br>
 If you're using 3.3 volts power supply then put "+" of your power supply to the "3V3" pin.<br>
