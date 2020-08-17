@@ -184,7 +184,7 @@ void loop(){
   client.print("  </th>");
   client.print(" </tr>");
     client.print(" <tr>");
-  client.print("<th><p> Channel 4);
+  client.print("<th><p> Channel 4");
   client.print("  </th>");
   client.print("  </tr>");
 //  client.print("  <br></br>");
